@@ -11,7 +11,7 @@
         "fit": "bulk_edit",
         "references": "",
         "reviewed": true,
-        "value": 1.005
+        "value": 1.0
     },
     "H1": {
         "error": 1e-20,
