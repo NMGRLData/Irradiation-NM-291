@@ -1,7 +1,7 @@
 {
     "Ar36": {
-        "error": 0.00023609782421111358,
-        "fit": "Preceding",
+        "error": 0.00017797418122712444,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -65,11 +65,11 @@
             }
         ],
         "reviewed": true,
-        "value": 0.006285738652235795
+        "value": 0.005812375344553155
     },
     "Ar37": {
-        "error": 0.005314730053844012,
-        "fit": "Preceding",
+        "error": 0.0042629244296599885,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -133,11 +133,11 @@
             }
         ],
         "reviewed": true,
-        "value": 0.05493896635044601
+        "value": 0.050756432386595156
     },
     "Ar38": {
-        "error": 0.002494247331607275,
-        "fit": "Preceding",
+        "error": 0.0019307040165319825,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -201,11 +201,11 @@
             }
         ],
         "reviewed": true,
-        "value": 0.014229768626953953
+        "value": 0.012844446590350504
     },
     "Ar39": {
-        "error": 0.010588616992567048,
-        "fit": "Preceding",
+        "error": 0.008401138093199345,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -269,11 +269,11 @@
             }
         ],
         "reviewed": true,
-        "value": 0.03559016927256594
+        "value": 0.028021410630605634
     },
     "Ar40": {
-        "error": 0.009195757468590604,
-        "fit": "Preceding",
+        "error": 0.007336313328024103,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -337,7 +337,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.8626100205705054
+        "value": 0.8760820570131691
     },
     "Ar41": {
         "error": 0.0032521243447547954,
